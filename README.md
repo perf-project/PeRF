@@ -23,8 +23,6 @@
 
 
 
-
-
 ### [Project](https://perf-project.github.io/) | [YouTube](https://www.youtube.com/watch?v=4wa2h1fjh2U&feature=youtu.be) | [arXiv](https://arxiv.org/abs/2310.16831) 
 <div>
 
