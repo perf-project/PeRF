@@ -1,0 +1,64 @@
+device:
+  base_exp_dir: /home/featurize/PeRF/exp
+exp_name: nerf_experiment
+mode: render_dense
+is_continue: true
+dataset_class_name: WildDataset
+dataset:
+  image_resize:
+  - 2048
+  - 1024
+  image_path: /home/featurize/PeRF/example_data/kitchen/image.png
+pose_sampler_name: CirclePoseSampler
+pose_sampler:
+  traverse_ratios:
+  - 0.2
+  - 0.4
+  - 0.6
+  n_anchors_per_ratio:
+  - 8
+  - 8
+  - 8
+rgbd_inpaint: false
+pers_inpainter_type: stable_diffusion
+scene_class_name: NeRFScene
+scene:
+  estimator_type: occ
+  renderer_conf:
+    max_radius: 2
+    bg_color: rand_noise
+  train_conf:
+    ignore_near: true
+    cross_depth_check: true
+    raw_phase_iter_geo: 3000
+    raw_phase_iter_app: 1500
+    geo_optimizer:
+      init_lr: 0.0
+      peak_lr: 0.01
+      peak_at: 0.2
+      lr_alpha: 0.01
+    app_optimizer:
+      init_lr: 0.0
+      peak_lr: 0.01
+      peak_at: 0.2
+      lr_alpha: 0.01
+    prop_optimizer:
+      init_lr: 0.0001
+      peak_lr: 0.001
+      peak_at: 0.1
+      lr_alpha: 0.1
+    color_loss_weight: 1.0
+    depth_loss_weight: 1.0
+    density_loss_weight: 0.0
+    disp_loss_weight: 0.0
+    opacity_loss_weight: 0.0
+    distortion_loss_weight: 0.1
+    certainty_loss_weight: 0.0
+    pixel_loss_batch_size: 8192
+    vis_adv_patch_freq: 200
+    vis_freq: 5000
+    vis_video_freq: 25000
+    save_freq: 1000000
+    patch_real_filter_angle: 45
+    patch_fov: 45
+    patch_res: 128
