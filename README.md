@@ -33,7 +33,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Totoro97/PeRF)
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Totoro97/PeRF)-->
 <tr>
-    <img src="img/input_output_task_definition3.gif" width="90%"/>
+    <img src="img/input_output_one_example_clip.gif" width="90%"/>
 </tr>
 </div>
 
