@@ -15,7 +15,7 @@
     <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu<sup>1</sup></a>
 </div>
 <div>
-    S-Lab, Nanyang Technological University<sup>1</sup>, The University of Hong Kong<sup>2</sup>, Texas A\&M University<sup>3</sup>
+    S-Lab, Nanyang Technological University<sup>1</sup>, The University of Hong Kong<sup>2</sup>, Texas A&M University<sup>3</sup>
 </div>
 <div>
 * denotes equal contribution
