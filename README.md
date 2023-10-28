@@ -10,12 +10,12 @@
     <a href='https://wanggcong.github.io/' target='_blank'>Guangcong Wang*<sup>1</sup></a>&emsp;
     <a href='https://quartz-khaan-c6f.notion.site/Peng-Wang-0ab0a2521ecf40f5836581770c14219c' target='_blank'>Peng Wang*<sup>2</sup></a>&emsp;
     <a href='https://frozenburning.github.io/' target='_blank'>Zhaoxi Chen<sup>1</sup></a>&emsp;
-    <a href='https://www.cs.hku.hk/people/academic-staff/wenping' target='_blank'>Wenping Wang<sup>2</sup></a>&emsp;
+    <a href='https://www.cs.hku.hk/people/academic-staff/wenping' target='_blank'>Wenping Wang<sup>3</sup></a>&emsp;
     <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Chen Change Loy<sup>1</sup></a>&emsp;
     <a href='https://liuziwei7.github.io/' target='_blank'>Ziwei Liu<sup>1</sup></a>
 </div>
 <div>
-    S-Lab, Nanyang Technological University<sup>1</sup>, The University of Hong Kong<sup>2</sup>
+    S-Lab, Nanyang Technological University<sup>1</sup>, The University of Hong Kong<sup>2</sup>, Texas A\&M University<sup>3</sup>
 </div>
 <div>
 * denotes equal contribution
