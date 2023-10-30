@@ -150,14 +150,13 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# data
 public_data
 exp
 tmp
 
 
 # Extra
-data
+# data
 External
 exp
 outputs
