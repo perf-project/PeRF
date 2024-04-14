@@ -3,7 +3,7 @@
 <h1>PERF: Panoramic Neural Radiance Field from a Single Panorama</h1>
 
 <div>
-    Technical Report 2023
+    TPAMI 2024
 </div>
 
 <div>
@@ -82,6 +82,6 @@ Cite as below if you find it helpful to your research.
 @article{perf2023,
     title={PERF: Panoramic Neural Radiance Field from a Single Panorama},
     author={Guangcong Wang and Peng Wang and Zhaoxi Chen and Wenping Wang and Chen Change Loy and Ziwei Liu},
-    journal={Technical Report},
-    year={2023}}
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
+    year={2024}}
 ```
